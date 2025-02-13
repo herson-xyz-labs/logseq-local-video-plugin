@@ -4,5 +4,8 @@
     "description": "A Logseq plugin to enhance note-taking with local videos.",
     "version": "0.1.0",
     "author": "herson",
-    "main": "dist/index.js"
+    "main": "dist/index.js",
+    "logseq": {
+        "icon": "icon.svg"
+      }
 }
