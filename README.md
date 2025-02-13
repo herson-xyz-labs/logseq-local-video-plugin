@@ -1,0 +1,2 @@
+# logseq-local-video-plugin
+ 
